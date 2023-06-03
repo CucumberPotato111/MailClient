@@ -30,10 +30,12 @@ namespace MailClient
 
         private void btn_Login_Click(object sender, EventArgs e)
         {
-            
+                Regex emailCheck = new Regex(@"^([\w\.\-]+)@([\w\-]+)((\.(\w){2,3})+)$");
                 conn.Open();
                 string username = txt_Username.Text;
                 string password = txt_Password.Text;
+                if (emailCheck.IsMatch(username)||emailCheck.IsMatch(password))
+            {
                 string sql = "select * from Account_Login where username = '" + username + "'and password = '" + password + "'";
                 SqlCommand cmd = new SqlCommand(sql, conn);
                 SqlDataReader rdr = cmd.ExecuteReader();
@@ -50,6 +52,11 @@ namespace MailClient
                 {
                     MessageBox.Show("Login Failed");
                 }
+             }
+             else
+             {
+               MessageBox.Show("No special characters allowed");
+             }
                 conn.Close();
           
         }
