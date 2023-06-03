@@ -1,0 +1,68 @@
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\bin\Debug\MailClient.exe.config
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\bin\Debug\MailClient.exe
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\bin\Debug\MailClient.pdb
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\obj\Debug\MailClient.csproj.AssemblyReference.cache
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\obj\Debug\MailClient.csproj.SuggestedBindingRedirects.cache
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\obj\Debug\MailClient.F_Login.resources
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\obj\Debug\MailClient.Properties.Resources.resources
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\obj\Debug\MailClient.csproj.GenerateResource.cache
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\obj\Debug\MailClient.csproj.CoreCompileInputs.cache
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\obj\Debug\MailClient.exe
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\obj\Debug\MailClient.pdb
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\obj\Debug\MailClient.F_Compose.resources
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\obj\Debug\MailClient.csproj.CopyComplete
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\bin\Debug\BouncyCastle.Crypto.dll
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\bin\Debug\MailKit.dll
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\bin\Debug\MimeKit.dll
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\bin\Debug\System.Buffers.dll
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\bin\Debug\System.Memory.dll
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\bin\Debug\System.Numerics.Vectors.dll
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\bin\Debug\BouncyCastle.Crypto.xml
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\bin\Debug\MailKit.pdb
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\bin\Debug\MailKit.xml
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\bin\Debug\MimeKit.pdb
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\bin\Debug\MimeKit.xml
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\bin\Debug\System.Buffers.xml
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\bin\Debug\System.Memory.xml
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\bin\Debug\System.Numerics.Vectors.xml
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\obj\Debug\MailClient.F_MailBox.resources
+D:\HomeWork\School_Project\Advanced Networking\MailClient\MailClient\obj\Debug\MailClient.Form4.resources
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\bin\Debug\MailClient.exe.config
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\bin\Debug\MailClient.exe
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\bin\Debug\MailClient.pdb
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\bin\Debug\BouncyCastle.Crypto.dll
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\bin\Debug\MailKit.dll
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\bin\Debug\MimeKit.dll
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\bin\Debug\System.Buffers.dll
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\bin\Debug\System.Memory.dll
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\bin\Debug\System.Numerics.Vectors.dll
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\bin\Debug\BouncyCastle.Crypto.xml
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\bin\Debug\MailKit.pdb
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\bin\Debug\MailKit.xml
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\bin\Debug\MimeKit.pdb
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\bin\Debug\MimeKit.xml
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\bin\Debug\System.Buffers.xml
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\bin\Debug\System.Memory.xml
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\bin\Debug\System.Numerics.Vectors.xml
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\obj\Debug\MailClient.csproj.AssemblyReference.cache
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\obj\Debug\MailClient.csproj.SuggestedBindingRedirects.cache
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\obj\Debug\MailClient.F_Login.resources
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\obj\Debug\MailClient.F_MailBox.resources
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\obj\Debug\MailClient.F_Compose.resources
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\obj\Debug\MailClient.Form4.resources
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\obj\Debug\MailClient.Properties.Resources.resources
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\obj\Debug\MailClient.csproj.GenerateResource.cache
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\obj\Debug\MailClient.csproj.CoreCompileInputs.cache
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\obj\Debug\MailClient.csproj.CopyComplete
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\obj\Debug\MailClient.exe
+D:\Study Resources\University\Advanced Networking(1)\MailClient\MailClient\obj\Debug\MailClient.pdb
